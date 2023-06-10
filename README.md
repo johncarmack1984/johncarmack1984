@@ -1,18 +1,14 @@
 README.md
 
-# John Carmack
-
-![Profile Picture](profile_picture.jpg)
-
 ## About Me
 
-Highly skilled and experienced Senior Full Stack Developer with a passion for building and deploying applications. I have over 20 years of professional experience in front-end and back-end development, with expertise in technologies such as Azure, Laravel, Nuxt/Vue.js, JavaScript, TypeScript, React.js, and more. I am dedicated to driving website accessibility, optimizing performance, and ensuring scalability. I thrive in collaborative environments, continuously seeking opportunities for improvement and growth.
+Highly skilled and experienced Senior Full Stack Developer with a passion for building and deploying applications. I have over 20 years of professional experience in front-end and back-end development, with expertise in technologies such as Azure, Laravel, Nuxt/Vue.js, Next.js, JavaScript, TypeScript, React.js, and more. I am dedicated to driving website accessibility, optimizing performance, and ensuring scalability. I thrive in collaborative environments, continuously seeking opportunities for improvement and growth.
 
 ## Projects
 
-- [Project 1](https://github.com/project1): A web application showcasing my expertise in front-end development using React.js and TypeScript. Implemented responsive design and integrated with backend APIs for seamless user experience.
-- [Project 2](https://github.com/project2): A full-stack application built with Vue.js and Node.js, demonstrating my proficiency in end-to-end development and API integration. Implemented data visualization and real-time updates for enhanced user engagement.
-- [Project 3](https://github.com/project3): An open-source project contributing to the cybersecurity community. Collaborated with a team to develop a secure authentication system using Laravel and GraphQL.
+- [Sentiment Analyzer](https://github.com/johncarmack1984/sentiment-analyzer): Flask-based app using TextBlob for simple sentiment analysis. Deployed on AWS Lambda with Zappa. Fun project with jQuery, Google fonts, and Tailwind styling.
+- [OpenAI Data Viz: String Embeddings](https://github.com/johncarmack1984/nuxt-w-openai-embedding-data-viz): Experience the simplicity of this NuxtJS application designed to showcase OpenAI's string embeddings. Discover insights by fetching data related to a specific string and visualizing its embeddings on a line graph. Future enhancements are planned for real-time updates to further engage users.
+- [DropVault](https://github.com/johncarmack1984/migrate-to-s3-deep-storage-for-business): A terraform script for requisitioning an EC2 container which then can migrate up to 16TB of data from DropBox Business to S3 Deep Storage. Aims to be a scalable, secure, and cost-effective solution for migrating to long-term data archival.
 
 ## Skills
 
