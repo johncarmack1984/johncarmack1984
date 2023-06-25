@@ -9,6 +9,7 @@ Highly skilled and experienced Senior Full Stack Engineer with a passion for bui
 - [Sentiment Analyzer](https://github.com/johncarmack1984/sentiment-analyzer): Flask-based app using TextBlob for simple sentiment analysis. Deployed on AWS Lambda with Zappa. Fun project with jQuery, Google fonts, and Tailwind styling.
 - [OpenAI Data Viz: String Embeddings](https://github.com/johncarmack1984/nuxt-w-openai-embedding-data-viz): Experience the simplicity of this NuxtJS application designed to showcase OpenAI's string embeddings. Discover insights by fetching data related to a specific string and visualizing its embeddings on a line graph. Future enhancements are planned for real-time updates to further engage users.
 - [DropVault](https://github.com/johncarmack1984/migrate-to-s3-deep-storage-for-business): A terraform script for requisitioning an EC2 container which then can migrate up to 16TB of data from DropBox Business to S3 Deep Storage. Aims to be a scalable, secure, and cost-effective solution for migrating to long-term data archival.
+- [DeepFreeze](https://github.com/johncarmack1984/deep-freeze): A Dropbox to Amazon S3 migration tool that uses a local SQLite database to track the migration status. It is designed to handle large migrations and recover from failures.
 
 ## Skills
 
