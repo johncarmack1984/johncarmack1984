@@ -22,7 +22,7 @@ Highly skilled and experienced Senior Full Stack Engineer with a passion for bui
 - JavaScript, TypeScript, React.js, Vue.js, Node.js
 - Azure, Laravel, Next.js, Nuxt.js, Express, GraphQL,
 - AWS, Python, Flask, Django, Pandas, NumPy,
-- Docker, Terraform, and more
+- Docker, Terraform, Rust, and more
 
 ## Contact Me
 
