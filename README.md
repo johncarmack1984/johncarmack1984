@@ -2,7 +2,7 @@ README.md
 
 ## About Me
 
-Highly skilled and experienced Senior Software Engineer with a passion for building and deploying applications. I have over 20 years of professional experience in front-end and back-end development, with expertise in technologies such as Azure, Laravel, Nuxt/Vue.js, Next.js, Python, TypeScript, React.js, PHP, and more. I am dedicated to driving website accessibility, optimizing performance, and ensuring scalability. I thrive in collaborative environments, continuously seeking opportunities for improvement and growth.
+Highly skilled and experienced Software Engineer with a passion for building and deploying applications. I have over 20 years of professional experience in front-end and back-end development, with expertise in technologies such as Azure, Laravel, Nuxt/Vue.js, Next.js, Python, TypeScript, React.js, PHP, and more. I am dedicated to driving website accessibility, optimizing performance, and ensuring scalability. I thrive in collaborative environments, continuously seeking opportunities for improvement and growth.
 
 ## Projects
 
