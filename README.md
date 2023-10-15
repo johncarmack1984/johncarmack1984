@@ -22,7 +22,7 @@ Senior Software Engineer and Technical Leader with 25 years of experience in the
 
 ### Education:
 
-- Continuing Education, University of Californa, Irvine, 2021
+- Continuing Education, Business Administration, University of Californa, Irvine, 2021
 - Bachelor of Arts, Baylor University, 2011
 
 ### Professional Goals:
