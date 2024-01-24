@@ -4,7 +4,7 @@
 
 ### Professional Summary:
 
-Senior Software Engineer and Technical Leader with 25 years of experience in the FinTech, Marketing, and Ecommerce industries. Proven track record of delivering complex projects within tight deadlines. Specialize in leading teams and developing enterprise-grade applications using NextJS, Vue, React, JavaScript, Rust, Python, and PHP. Certified ContentStack Developer. Seeking a leadership role in a challenging environment to leverage technical and leadership skills.
+Senior Software Engineer and Technical Leader with 25 years of experience in the FinTech, Marketing, and Ecommerce industries. Proven track record of delivering complex projects within tight deadlines. Specialize in leading teams and developing enterprise-grade applications using NextJS, Vue, React, JavaScript, Rust, Python, and PHP. Certified ContentStack Developer. Currently working with the dream team @neem-hq where I've been given the opportunity to leverage my technical and collaborative skills.
 
 ### Technical Skills:
 
