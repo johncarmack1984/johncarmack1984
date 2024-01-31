@@ -27,4 +27,4 @@ Senior Software Engineer and Technical Leader with 25 years of experience in the
 
 ### Professional Goals:
 
-_To live well working hard on projects I love._
+_To live well, working diligently, on projects I love._
