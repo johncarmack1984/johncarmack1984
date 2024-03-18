@@ -9,7 +9,7 @@ Senior Software Engineer and Technical Leader with 25 years of experience in the
 ### Technical Skills:
 
 - Programming: JavaScript, Rust, Python, PHP
-- Web Development: NextJS, Vue, React
+- Web Development: NextJS, Vue, React, Tailwind
 - Backend Development: Express, Laravel, Actix, Django, Flask
 - Infrastructure: AWS, Azure, GCP
 - CMS: ContentStack, Contentful
