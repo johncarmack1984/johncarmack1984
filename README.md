@@ -1,6 +1,6 @@
 # John Carmack
 
-## Senior Software Engineer | Technical Lead
+## Software Engineer | Technical Lead
 
 ### Professional Summary:
 
