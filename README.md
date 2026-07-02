@@ -1,19 +1,21 @@
 # John Carmack
 
-AI/LLM and geospatial/GPU software engineer. Rust and TypeScript, from production LLM systems to GPU map rendering to the cloud infrastructure that runs them. Recently primary author of a safety-critical aviation flight-planning desktop app and lone architect of a real-time analytics platform. Remote, based in Waco, TX.
+AI/LLM and geospatial/GPU software engineer. Rust and TypeScript. I build production LLM systems, GPU map rendering, and the cloud infrastructure that runs them. Lately: primary author of a safety-critical aviation flight-planning desktop app, lone architect of a real-time analytics platform. Remote, based in Waco, TX.
+
+Not the Doom guy. Different guy.
 
 ## What I build
 
-- **Production AI/LLM applications** - schema-validated data extraction, LLM gateways, structured output, and the evaluation harnesses that keep them honest.
+- **Production AI/LLM applications** - schema-validated data extraction, LLM gateways, structured output, and the eval harnesses that keep them honest.
 - **High-performance maps and GPU/geospatial** - deck.gl, luma.gl, MapLibre, WebGL, vector tiles and PMTiles.
-- **Aviation software** - safety-critical flight-planning and dispatch desktop apps.
+- **Aviation software** - safety-critical flight planning and dispatch, on the desktop.
 - **Rust systems and cloud** - Axum/Tokio services, type-safe Rust to TypeScript, serverless on AWS (Lambda, CDK), infrastructure-as-code.
 
 ## Featured work
 
 **AI / LLM**
 - [llm-extract-evals](https://github.com/johncarmack1984/llm-extract-evals) - schema-validated LLM data extraction with a confidence-gated evaluation harness: accuracy scoring and offline replay.
-- [promptward](https://github.com/johncarmack1984/promptward) - an LLM gateway that detects prompt injection and data exfiltration, validates structured output, and meters cost, with an eval harness that proves the detection rate.
+- [promptward](https://github.com/johncarmack1984/promptward) - an LLM gateway that catches prompt injection and data exfiltration, validates structured output, and meters cost. The eval harness proves the detection rate.
 
 **Geospatial / GPU**
 - [stormdeck](https://github.com/johncarmack1984/stormdeck) - live weather on a deck.gl map, vector tiles served from AWS Lambda on the free tier.
