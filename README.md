@@ -4,12 +4,15 @@ AI/LLM and geospatial/GPU software engineer. Rust and TypeScript. I build produc
 
 Not the Doom guy. Different guy.
 
+**Currently:** production LLM tooling (the boring reliability parts) and a weather + energy data platform.
+
 ## What I build
 
 - **Production AI/LLM applications** - schema-validated data extraction, LLM gateways, structured output, and the eval harnesses that keep them honest.
 - **High-performance maps and GPU/geospatial** - deck.gl, luma.gl, MapLibre, WebGL, vector tiles and PMTiles.
 - **Aviation software** - safety-critical flight planning and dispatch, on the desktop.
 - **Rust systems and cloud** - Axum/Tokio services, type-safe Rust to TypeScript, serverless on AWS (Lambda, CDK), infrastructure-as-code.
+- **Shipped, in the App Store** - [lux](https://github.com/johncarmack1984/lux) (DMX stage lighting) and [vegify.app](https://vegify.app) (plant-based nutrition tracking), both live since July 2026.<!-- Sheaf (iMessage → keepsake PDF) joins post-launch -->
 
 ## Featured work
 
@@ -24,12 +27,12 @@ Not the Doom guy. Different guy.
 
 **Rust / systems**
 - [typed-geojson](https://github.com/johncarmack1984/typed-geojson) - strongly-typed GeoJSON for Rust (`Feature<G, P>` / `FeatureCollection`), specta-compatible.
-- [specta](https://github.com/johncarmack1984/specta) - contributor to specta-rs, exporting Rust types to TypeScript.
+- [specta](https://github.com/johncarmack1984/specta) - Rust-to-TypeScript type export. 11 PRs merged toward 2.0-stable, including a remapper the maintainer's own test suite now depends on.
 - [accept-payments](https://github.com/johncarmack1984/accept-payments) - a payments and invoicing API in Rust/Axum on the AWS Lambda Rust runtime.
 
 ## Stack
 
-Rust, TypeScript, React, Next.js, Node, Tauri, Python | deck.gl, luma.gl, MapLibre, WebGL, D3 | Axum, Tokio, Snowflake, PostgreSQL | AWS (Lambda, CDK), Terraform, GitHub Actions | LLM/AI: extraction, evaluation, structured output
+Rust, TypeScript, React, Tauri, Node, Python | deck.gl, luma.gl, MapLibre, WebGL, PMTiles | Axum, Tokio, PostgreSQL | AWS (Lambda, CDK), Terraform, GitHub Actions | LLM production: extraction, evaluation, structured output, injection defense
 
 ## Reach me
 
