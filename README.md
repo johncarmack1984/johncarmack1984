@@ -27,7 +27,7 @@ Not the Doom guy. Different guy.
 
 **Rust / systems**
 - [typed-geojson](https://github.com/johncarmack1984/typed-geojson) - strongly-typed GeoJSON for Rust (`Feature<G, P>` / `FeatureCollection`), specta-compatible.
-- [specta](https://github.com/johncarmack1984/specta) - Rust-to-TypeScript type export. 11 PRs merged toward 2.0-stable, including a remapper the maintainer's own test suite now depends on.
+- [specta](https://github.com/johncarmack1984/specta) - Rust-to-TypeScript type export. 14 PRs merged toward 2.0-stable, including a remapper the maintainer's own test suite now depends on.
 - [accept-payments](https://github.com/johncarmack1984/accept-payments) - a payments and invoicing API in Rust/Axum on the AWS Lambda Rust runtime.
 
 ## Stack
