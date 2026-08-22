@@ -21,8 +21,7 @@ Not the Doom guy. Different guy.
 - [promptward](https://github.com/johncarmack1984/promptward) - an LLM gateway that catches prompt injection and data exfiltration, validates structured output, and meters cost. The eval harness proves the detection rate.
 
 **Geospatial / GPU**
-- [stormdeck](https://github.com/johncarmack1984/stormdeck) - live weather on a deck.gl map, vector tiles served from AWS Lambda on the free tier.
-- [deck-wind-layer](https://github.com/johncarmack1984/deck-wind-layer) - a custom deck.gl v9 layer: GPU-advected wind particles over a moving map.
+- [stormdeck](https://stormdeck.live) - live weather on a deck.gl map, vector tiles served from AWS Lambda on the free tier.
 - [glslint](https://github.com/johncarmack1984/glslint) - a GLSL checker and language server that understands deck.gl/luma.gl shader modules (Rust).
 
 **Rust / systems**
