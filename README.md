@@ -10,9 +10,9 @@ Not the Doom guy. Different guy.
 
 MapLibre [voting member](https://github.com/maplibre/maplibre/pull/541) since August 2026. Counts below are merged PRs and link to the receipts.
 
-- [maplibre/martin](https://github.com/maplibre/martin/pulls?q=is%3Apr+author%3Ajohncarmack1984+is%3Amerged) - 42 since July 2026: tile caching, PMTiles on S3 and Lambda, font aliases, the e2e suite moved to Rust, and a self-hosted basemap tutorial.
+- [maplibre/martin](https://github.com/maplibre/martin/pulls?q=is%3Apr+author%3Ajohncarmack1984+is%3Amerged) - 42 since July 2026: tile caching, PMTiles on S3 and Lambda, font aliases, a Rust harness for the e2e tests, and a self-hosted basemap tutorial.
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js/pulls?q=is%3Apr+author%3Ajohncarmack1984+is%3Amerged) - 19: rebuilt the benchmark suite on Vitest bench, then render-path work (integer vertex attributes, terrain elevation sampling, a CPU raycast replacing framebuffer picking).
-- [specta-rs/specta](https://github.com/specta-rs/specta/pulls?q=is%3Apr+author%3Ajohncarmack1984+is%3Amerged) - 14 toward 2.0-stable, including a remapper the maintainer's own test suite now depends on.
+- [specta-rs/specta](https://github.com/specta-rs/specta/pulls?q=is%3Apr+author%3Ajohncarmack1984+is%3Amerged) - 14 toward 2.0-stable: enum rendering fixes, zod 4 output, the OpenAPI exporter, a bigint remapper.
 - [biomejs/biome](https://github.com/biomejs/biome/pulls?q=is%3Apr+author%3Ajohncarmack1984+is%3Amerged) - 13: Tailwind v4 class sorting in `useSortedClasses` (variants, container queries, the `!` suffix).
 - [maplibre/maplibre-agent-skills](https://github.com/maplibre/maplibre-agent-skills/pulls?q=is%3Apr+author%3Ajohncarmack1984+is%3Amerged) - 10: eval-gated releases and an upstream release watch.
 
