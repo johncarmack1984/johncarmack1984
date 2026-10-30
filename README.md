@@ -1,21 +1,22 @@
 # John Carmack
 
-AI/LLM and geospatial/GPU software engineer. Rust and TypeScript. I build production LLM systems, GPU map rendering, and the cloud infrastructure that runs them. Remote, based in Waco, TX.
+Software engineer, mostly in Rust and TypeScript. By day, Lead Content Distribution Engineer at Disney. My own time goes to MapLibre, where most of the PRs below landed. The rest of this page is production LLM systems, GPU map rendering, and the cloud infrastructure that runs them.
 
 Not the Doom guy. Different guy.
 
-**Currently:** a lot of [Martin](https://github.com/maplibre/martin) (mostly the 2.0 release) and custom projections in [MapLibre GL JS](https://github.com/maplibre/maplibre-gl-js).
+Lately it's [Martin](https://github.com/maplibre/martin) (its OGC API, and still images rendered with MapLibre Native), custom projections in [MapLibre GL JS](https://github.com/maplibre/maplibre-gl-js), and a globe for [MapLibre Native](https://github.com/maplibre/maplibre-native).
 
 ## Open source
 
 MapLibre [voting member](https://github.com/maplibre/maplibre/pull/541) since August 2026. Counts below are merged PRs and link to the receipts.
 
-- [maplibre/martin](https://github.com/maplibre/martin/pulls?q=is%3Apr+author%3Ajohncarmack1984+is%3Amerged) - 120 since July 2026: tile caching, PMTiles on S3 and Lambda, tile grids beyond Web Mercator, a Rust harness for the e2e tests, and the 2.0 cleanup and migration guide.
-- [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js/pulls?q=is%3Apr+author%3Ajohncarmack1984+is%3Amerged) - 40: rebuilt the benchmark suite on Vitest bench, then render-path work (integer vertex attributes, terrain elevation sampling, a CPU raycast replacing framebuffer picking) and custom projections for non-Mercator tile grids.
-- [maplibre/maplibre-agent-skills](https://github.com/maplibre/maplibre-agent-skills/pulls?q=is%3Apr+author%3Ajohncarmack1984+is%3Amerged) - 19: eval-gated releases and an upstream release watch.
+- [maplibre/martin](https://github.com/maplibre/martin/pulls?q=is%3Apr+author%3Ajohncarmack1984+is%3Amerged) - 164 since July 2026: tile caching, PMTiles on S3 and Lambda, tile grids beyond Web Mercator, a Rust harness for the e2e tests, the 2.0 cleanup and migration guide, and the OGC API.
+- [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js/pulls?q=is%3Apr+author%3Ajohncarmack1984+is%3Amerged) - 66: rebuilt the benchmark suite on Vitest bench, then render-path work (integer vertex attributes, terrain elevation sampling, a CPU raycast replacing framebuffer picking) and custom projections for non-Mercator tile grids.
+- [maplibre/maplibre-agent-skills](https://github.com/maplibre/maplibre-agent-skills/pulls?q=is%3Apr+author%3Ajohncarmack1984+is%3Amerged) - 59: eval-gated releases and an upstream release watch.
 - [biomejs/biome](https://github.com/biomejs/biome/pulls?q=is%3Apr+author%3Ajohncarmack1984+is%3Amerged) - 16: Tailwind v4 class sorting in `useSortedClasses` (variants, container queries, the `!` suffix).
 - [specta-rs/specta](https://github.com/specta-rs/specta/pulls?q=is%3Apr+author%3Ajohncarmack1984+is%3Amerged) - 14 toward 2.0-stable: enum rendering fixes, zod 4 output, the OpenAPI exporter, a bigint remapper.
 - [maplibre/maplibre-tile-spec](https://github.com/maplibre/maplibre-tile-spec/pulls?q=is%3Apr+author%3Ajohncarmack1984+is%3Amerged) - 11: the `mlt` terminal UI (background scanning, a decoded-tile cache, layer summaries, tessellation drawing).
+- [maplibre/maplibre-native](https://github.com/maplibre/maplibre-native/pulls?q=is%3Apr+author%3Ajohncarmack1984+is%3Amerged) - 11: line pattern and gradient fixes matched to GL JS, the interpolate-lab and interpolate-hcl expressions, and CI that no longer hangs.
 
 ## Featured work
 
