@@ -1,10 +1,10 @@
 # John Carmack
 
-AI/LLM and geospatial/GPU software engineer. Rust and TypeScript. I build production LLM systems, GPU map rendering, and the cloud infrastructure that runs them. Remote, based in Waco, TX.
+Software engineer, mostly in Rust and TypeScript. By day, Lead Content Distribution Engineer at Disney. My own time goes to MapLibre, where most of the PRs below landed. The rest of this page is production LLM systems, GPU map rendering, and the cloud infrastructure that runs them.
 
 Not the Doom guy. Different guy.
 
-**Currently:** a lot of [Martin](https://github.com/maplibre/martin) (mostly the 2.0 release) and custom projections in [MapLibre GL JS](https://github.com/maplibre/maplibre-gl-js).
+Lately it's [Martin](https://github.com/maplibre/martin) (its OGC API, and still images rendered with MapLibre Native), custom projections in [MapLibre GL JS](https://github.com/maplibre/maplibre-gl-js), and a globe for [MapLibre Native](https://github.com/maplibre/maplibre-native).
 
 ## Open source
 
